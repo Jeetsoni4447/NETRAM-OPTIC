@@ -1,0 +1,100 @@
+📁 public
+        📁 imgs
+            📁 frames
+            📁 goggles
+
+📁 src
+    ├── App.jsx
+    ├── index.css
+    ├── main.jsx
+    ├── pro2.json
+    📁 Comps
+        ├── ContactLenses.jsx
+        ├── Frames.jsx
+        ├── Goggles.jsx
+        ├── Navbar.jsx
+        ├── ProductCard.jsx
+        ├── ProductDetailsPage.jsx
+        ├── RedingGlasses.jsx
+        📁 Pro_Details_Pages
+            └── StarRatings.jsx
+    📁 Pages
+        └── Home.jsx
+    📁 Shop
+        ├── Cart.jsx
+        ├── Checkout.jsx
+        └── Profile.jsx
+
+
+
+Men - 
+     Goggles
+            - only Goggles
+            - With powerglass - Singlevison
+                                Bi phocal
+                                progressive
+
+     Frames  
+            - only Frames
+            - with powerglass - 
+                               Singlevison
+                               Bi phocal
+                               progressive
+
+Women - 
+     Goggles
+     Frames
+
+Kids - 
+     Goggles
+     Frames - only Frames
+            - with powerglass - 
+                               Singlevison
+
+
+Reading power 
+
+Selected Pro page
+Cart
+Checkout
+Guides
+
+scott
+wolfeyes
+kyans
+enfys
+knight horse
+vins
+Raw 7
+
+
+1. Eyeglasses
+Men’s Eyeglasses
+Women’s Eyeglasses
+Kids’ Eyeglasses
+Blue Light Glasses
+Reading Glasses
+Prescription Glasses
+Rimless & Half-Rim Glasses
+
+2. Sunglasses (Goggles)
+Men’s Sunglasses
+Women’s Sunglasses
+Kids’ Sunglasses
+Polarized Sunglasses
+Sports Sunglasses
+Aviator Sunglasses
+Wayfarer Sunglasses
+Round & Retro Sunglasses
+
+3. Contact Lenses
+Daily Wear Lenses
+Monthly Lenses
+Colored Contact Lenses
+Toric Lenses (For Astigmatism)
+Multifocal Lenses
+
+4. Accessories
+Lens Cleaning Kits
+Cases & Covers
+Anti-Fog Solutions
