@@ -1,0 +1,55 @@
+{
+  "men": [
+    "/public/imgs/ads/men/mens_glasses.WebP",
+    "/public/imgs/ads/men/mens_glasses_2.WebP",
+    "/public/imgs/ads/men/mens_glasses_3.WebP",
+    "/public/imgs/ads/men/mens_glasses_4.WebP",
+    "/public/imgs/ads/men/mens_glasses_5.WebP"
+  ],
+  "women": [
+    "/public/imgs/ads/women/women_glasses_1.WebP",
+    "/public/imgs/ads/women/women_glasses_2.WebP",
+    "/public/imgs/ads/women/women_glasses_3.WebP",
+    "/public/imgs/ads/women/women_glasses_4.WebP",
+    "/public/imgs/ads/women/women_glasses_5.WebP",
+    "/public/imgs/ads/women/women_glasses_6.WebP",
+    "/public/imgs/ads/women/women_glasses_7.WebP",
+    "/public/imgs/ads/women/women_glasses_8.WebP"
+  ],
+  "kids": [
+    "/public/imgs/ads/kids/optic_kids.WebP",
+    "/public/imgs/ads/kids/optic_kids_2.WebP",
+    "/public/imgs/ads/kids/optic_kids_3.webp"
+  ],
+  "hero_back": [
+    "/public/imgs/ads/back/hero_back_1.WebP",
+    "/public/imgs/ads/back/hero_back_2.WebP",
+    "/public/imgs/ads/back/hero_back_3.WebP",
+    "/public/imgs/ads/back/hero_back_4.WebP",
+    "/public/imgs/ads/back/hero_back_5.WebP",
+    "/public/imgs/ads/back/hero_back_6.WebP",
+    "/public/imgs/ads/back/hero_back_7.WebP",
+    "/public/imgs/ads/back/hero_back_8.WebP"
+  ],
+  "back": [
+    "/public/imgs/ads/back/back_glasses.WebP",
+    "/public/imgs/ads/back/hero_back_1.WebP",
+    "/public/imgs/ads/back/hero_back_2.WebP",
+    "/public/imgs/ads/back/hero_back_3.WebP"
+  ],
+  "show": [
+    "/public/imgs/ads/sho/titanium_ad_1.WebP",
+    "/public/imgs/ads/sho/titanium_ad_2.WebP",
+    "/public/imgs/ads/sho/pol_goggle_1.WebP",
+    "/public/imgs/ads/sho/pol_goggle_2.WebP"
+  ],
+
+  "wolfeyes_logo": "/public/imgs/brands/wolfeyes.WebP",
+  "scott_logo": "/public/imgs/brands/scott.WebP",
+  "enfys_logo": "/public/imgs/brands/enfys.WebP",
+  "knighthorse_logo": "/public/imgs/brands/knighthorse.WebP",
+  "kyaans_logo": "/public/imgs/brands/kyaans.WebP",
+  "tomhardy_logo": "/public/imgs/brands/tom_hardy_logo.WebP",
+  "vins_logo": "/public/imgs/brands/vins.WebP",
+  "raw7_logo": "/public/imgs/brands/raw7.WebP"
+}

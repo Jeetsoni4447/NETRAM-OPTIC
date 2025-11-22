@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+body {
+  background-color: black;
+  color: white;
+}
+
+body::-webkit-scrollbar {
+  /* width: 6px; */
+  background-color: transparent;
+  display: none;
+}
+
+/* body::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 10px;
+} */
+
+.products::-webkit-scrollbar {
+  display: none;
+}
+.lenses::-webkit-scrollbar {
+  display: none;
+}
+
+.close_sidebar_btn:active {
+  transform: rotate(90deg);
+}
