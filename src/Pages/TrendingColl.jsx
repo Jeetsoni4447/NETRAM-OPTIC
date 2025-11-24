@@ -16,14 +16,14 @@ const TrendingColl = () => {
   const [trendingFrames, setTrendingFrames] = useState([]);
 
   // Prepare shuffled and filtered trending frames
- useEffect(() => {
-  const filtered = Prods.frames
-    .filter(frame => frame.pro_rating >= 4.8) // ✅ Only 4.8+ ratings
-    .sort((a, b) => b.pro_rating - a.pro_rating);
-    
-  const shuffled = shuffleArray(filtered).slice(0, 10); // Pick top 10 randomly
-  setTrendingFrames(shuffled);
-}, []);
+  useEffect(() => {
+    const filtered = Prods.frames
+      .filter(frame => frame.pro_rating >= 4.8) // ✅ Only 4.8+ ratings
+      .sort((a, b) => b.pro_rating - a.pro_rating);
+
+    const shuffled = shuffleArray(filtered).slice(0, 10); // Pick top 10 randomly
+    setTrendingFrames(shuffled);
+  }, []);
 
 
   // Handle screen resize

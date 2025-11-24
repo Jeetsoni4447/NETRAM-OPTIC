@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "/api/:match*"
+    },
+    {
+      "source": "/product/:id",
+      "destination": "/product/:id"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
